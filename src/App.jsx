@@ -4,7 +4,7 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
 
 
 const App = () => {
-  
+  const API_KEY = "1JEIEBEKSJSIUSVSQOQNQVSKQLQL";
   return (
     <BrowserRouter>
       <div className="relative z-0 bg-primary">
